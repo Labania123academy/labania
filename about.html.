@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About | Labania SmartLearn Academy</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<header>
+    <nav>
+        <div class="logo">
+            Labania SmartLearn Academy
+        </div>
+
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="explore.html">Explore</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+
+    <section class="hero">
+        <h1>Learning that prepares you for tomorrow.</h1>
+
+        <p>
+            Labania SmartLearn Academy is a student-focused digital learning
+            platform designed to make quality learning resources more
+            accessible, practical and affordable.
+        </p>
+    </section>
+
+    <section>
+        <h2>Our Mission</h2>
+
+        <p>
+            To help learners improve their academic performance, develop
+            practical skills and build confidence through affordable,
+            accessible and engaging digital learning.
+        </p>
+    </section>
+
+    <section>
+        <h2>Our Vision</h2>
+
+        <p>
+            To become a trusted learning platform where students can prepare
+            for examinations, gain practical skills and develop the digital
+            competencies they need for the future.
+        </p>
+    </section>
+
+    <section>
+        <h2>What We Offer</h2>
+
+        <div class="cards">
+
+            <div class="card">
+                <h3>Exam Preparation</h3>
+                <p>
+                    Revision materials and learning resources designed to help
+                    students prepare confidently for examinations.
+                </p>
+            </div>
+
+            <div class="card">
+                <h3>Affordable Notes</h3>
+                <p>
+                    Well-elaborated and easy-to-understand notes for different
+                    subjects and learning levels.
+                </p>
+            </div>
+
+            <div class="card">
+                <h3>Practical Skills</h3>
+                <p>
+                    Learn useful skills that can be applied beyond the
+                    classroom and in everyday life.
+                </p>
+            </div>
+
+            <div class="card">
+                <h3>Digital Literacy</h3>
+                <p>
+                    Develop the digital skills needed for learning, work and
+                    the modern world.
+                </p>
+            </div>
+
+            <div class="card">
+                <h3>Online Courses</h3>
+                <p>
+                    Access flexible learning opportunities that allow learners
+                    to study at their own pace.
+                </p>
+            </div>
+
+            <div class="card">
+                <h3>CBE Approach</h3>
+                <p>
+                    We promote competency-based learning through practical
+                    activities, participation, application and meaningful
+                    assessment.
+                </p>
+            </div>
+
+        </div>
+    </section>
+
+    <section class="cta">
+        <h2>Your next chapter starts here.</h2>
+
+        <p>
+            Learn today. Build your skills. Prepare for tomorrow.
+        </p>
+
+        <a href="explore.html" class="btn">Start Learning</a>
+    </section>
+
+</main>
+
+<footer>
+    <p>© 2026 Labania SmartLearn Academy. Learn today. Lead tomorrow.</p>
+</footer>
+
+</body>
+</html>
